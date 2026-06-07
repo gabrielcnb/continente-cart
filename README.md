@@ -3,7 +3,7 @@
 
 # continente-shopping-scraper
 
-Desktop app that automates grocery shopping on continente.pt — searches a list of items, selects the best match using fuzzy string matching, and processes each one sequentially.
+Desktop app that automates grocery shopping on continente.pt. It searches a list of items, selects the best match using fuzzy string matching, and processes each one sequentially.
 
 ## Features
 
@@ -49,7 +49,7 @@ The GUI window opens. Enter your shopping list (one item per line) and click Sta
 
 ```
 continente-shopping-scraper/
-└── main.py    # Main application — GUI + background scraper worker
+└── main.py    # Main application: GUI plus background scraper worker
 ```
 
 ## Disclaimer
